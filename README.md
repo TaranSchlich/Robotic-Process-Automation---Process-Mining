@@ -59,13 +59,13 @@ The claims process follows this general lifecycle:
 
 Shows the frequency of transitions between activities across all 22,625 cases.
 
-![DFG Process Map](images/download (4).png)
+![DFG Process Map](images/download_(4).png)
 
 ### Heuristic Miner (HM)
 
 Shows the most common ("happy path") flow through the process, filtering out noise.
 
-![Heuristic Miner Process Map](images/download (5).png)
+![Heuristic Miner Process Map](images/download_(5).png)
 
 ---
 
