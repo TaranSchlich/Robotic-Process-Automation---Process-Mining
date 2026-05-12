@@ -2,6 +2,8 @@
 
 Insurance claims process mining using Python and PM4Py to discover workflow patterns, detect anomalies, and visualize the end-to-end claim lifecycle with Directly-Follows Graphs and Heuristic Miner process maps.
 
+**Notebook:** [Open in Google Colab](https://colab.research.google.com/drive/12O8Ul5oJ-Mvt2IXuJ-S4k2mB4DllT-SC?usp=sharing)
+
 ---
 
 ## Background
@@ -55,6 +57,8 @@ The claims process follows this general lifecycle:
 
 ## Process Maps
 
+The full interactive process maps are rendered in the Colab notebook linked above.
+
 ### Directly-Follows Graph (DFG)
 
 Shows the frequency of transitions between activities across all 22,625 cases.
@@ -76,5 +80,5 @@ Shows the most common ("happy path") flow through the process, filtering out noi
 | Python | Core analysis language |
 | pandas | Data loading and exploration |
 | PM4Py | Process mining — event log conversion, DFG, Heuristic Miner |
-| Jupyter Notebook | Interactive analysis environment |
+| Google Colab | Interactive analysis environment |
 | matplotlib | Supporting visualizations |
