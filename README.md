@@ -78,10 +78,3 @@ Shows the most common ("happy path") flow through the process, filtering out noi
 | PM4Py | Process mining — event log conversion, DFG, Heuristic Miner |
 | Jupyter Notebook | Interactive analysis environment |
 | matplotlib | Supporting visualizations |
-
----
-
-## Course
-
-University of Wisconsin–Madison — Master of Science in Data & AI  
-Robotic Process Automation (RPA) — Process Mining Module
